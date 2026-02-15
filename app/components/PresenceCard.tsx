@@ -101,8 +101,8 @@ export default function PresenceCard({ username, initialStatus }: Props) {
 }
 
 /*
-  ⚠️ Styling note:
-  Ignore styles — focus on state, props, and useEffect logic.
+  Styling note:
+  Ignore styles for now.
 */
 const styles = StyleSheet.create({
   card: {
