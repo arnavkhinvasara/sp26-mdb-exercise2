@@ -32,7 +32,7 @@ export default function App() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.header}>Mobile Dev Club Presence</Text>
+      <Text style={styles.header}>MDB Club Presence</Text>
 
       <ScrollView contentContainerStyle={styles.list}>
         {/* 
